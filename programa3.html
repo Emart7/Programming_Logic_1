@@ -1,0 +1,34 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA 3 - MEJORANDO EL CODIGO </h1>
+
+<script>
+
+    function skipLine(){
+    <!--Function created to perform line breaks-->
+        document.write("<br>");
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function print(frase){
+        document.write(frase);
+        skipLine();
+    }
+
+    print("HHHH");
+    //Este codigo calcula las edades de Juan, Carlos y Jorge.
+
+    var year = 2025; <!-- Se define la variable YEAR en JavaScript. Preferiblemente se define al princio del codigo-->
+    skipLine();
+
+    print("Juan tiene: " + (year-2001) + " años");    <!--JavaScript muestra el comentario y lo concatena con la operacion-->
+    skipLine();
+
+    print("Carlos tiene: " + (year-2002) + " años");
+
+    year = 2030; <!-- Como es una ejecucion secuencial, la variable YEAR se revalua a partir de aca y con el nuevo valor definido en JavaScript-->
+    skipLine();
+    print("Jorge tiene " + (year-1997) + " años");
+
+</script>

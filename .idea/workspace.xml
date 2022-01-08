@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="html exercise">
-      <change afterPath="$PROJECT_DIR$/programa.html" afterDir="false" />
+    <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="Html and JavaScript exercise">
+      <change afterPath="$PROJECT_DIR$/calculo_consumo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ejercicio1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ejercicio2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/primer_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa.html" beforeDir="false" afterPath="$PROJECT_DIR$/programa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,37 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keyrus\IdeaProjects\Logica de Programacion\exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.imc.html">
+    <configuration name="calculo_consumo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/calculo_consumo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="imc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/imc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="programa3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/programa3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.imc.html" />
+        <item itemvalue="JavaScript Debug.ejercicio2.html" />
+        <item itemvalue="JavaScript Debug.ejercicio1.html" />
+        <item itemvalue="JavaScript Debug.programa3.html" />
+        <item itemvalue="JavaScript Debug.calculo_consumo.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +87,10 @@
       <option name="presentableId" value="Default" />
       <updated>1641403618500</updated>
       <workItem from="1641403619850" duration="11000" />
-      <workItem from="1641403665958" duration="9883000" />
+      <workItem from="1641403665958" duration="10064000" />
+      <workItem from="1641488513634" duration="6795000" />
+      <workItem from="1641512543059" duration="36000" />
+      <workItem from="1641610526738" duration="9586000" />
     </task>
     <task id="LOCAL-00001" summary="html exercise">
       <created>1641405066208</created>
@@ -67,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641405072924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Html and JavaScript exercise">
+      <created>1641426693785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641426693785</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Html and JavaScript exercise">
+      <created>1641426704962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641426704962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,9 +136,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="html exercise" />
+    <MESSAGE value="Html and JavaScript exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Html and JavaScript exercise" />
   </component>
 </project>

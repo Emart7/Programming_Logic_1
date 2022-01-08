@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+<script>
+//Cálculo diferencia de edades
+//¿Cuántos años de diferencia tienes con tu hermano?
+// Escribe un programa que muestre el mensaje ¨Nuestra diferencia de edad es¨,
+// concatenando el resultado de la diferencia de tu edad con la de tu hermano (o de un amigo).
+// La respuesta puede dar negativa
+
+
+function skipLine(){
+    document.write("<br>")
+    document.write("<br>")
+}
+
+function message(frase){
+    document.write(frase)
+    skipLine();
+}
+
+var yearsMessi = 31;
+var yearsNeymar = 23;
+var yearsDifference = yearsMessi - yearsNeymar;
+
+message("<h1>La diferencia de edad entre mi hermano y yo es: </h1>" + yearsDifference + " años.");
+
+</script>

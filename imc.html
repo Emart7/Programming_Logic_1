@@ -1,0 +1,31 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA 4 CALCULAR IMC</h1>
+
+<script>
+
+  function skipLine(){
+    <!--Function created to perform line breaks-->
+    document.write("<br>");
+    document.write("<br>");
+    document.write("<br>");
+  }
+
+  function print(frase){
+    document.write(frase);
+    skipLine();
+  }
+
+  function calculateImc(weight,height){
+    imc = weight / (height * height);
+    return imc;
+  }
+
+  name = prompt("Por favor, ingrese su nombre:")
+  enteredWeight = prompt(name + ", ahora ingresa tu peso: ")
+  enteredheight = prompt(name + ", ahora ingresa tu altura: ")
+
+  imcCalculado = calculateImc(enteredWeight,enteredheight);
+  print(name + ", tu indice de masa corporal es: " + imcCalculado);
+
+</script>
