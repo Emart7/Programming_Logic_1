@@ -1,0 +1,38 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA 5 - CALCULAR LOS PUNTOS DE UN EQUIPO DE FUTBOL</h1>
+
+<script>
+
+    function skipLine(){
+        <!--Function created to perform line breaks-->
+        document.write("<br>");
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function print(frase){
+        document.write(frase);
+        skipLine();
+    }
+
+    //Se convierte una variable de texto a numero
+    var victorias = parseInt(prompt("Ingrese la cantidad de victorias: "));
+    var empates = parseInt(prompt("Ingrese la cantidad de empates: "));
+
+    var puntosTotal = victorias * 3 + empates;
+
+    print("El total de puntos es: " + puntosTotal);
+
+    if(puntosTotal > 30){
+        print("El equipo va mejor que el año pasado.");
+    }
+    if(puntosTotal < 15){
+        print("El equipo va peor que el año pasado.");
+    }
+
+    if(puntosTotal == 20){
+        print("El equipo va igual que el año pasado.");
+    }
+
+</script>

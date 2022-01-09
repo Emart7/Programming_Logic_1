@@ -21,11 +21,24 @@
     return imc;
   }
 
-  name = prompt("Por favor, ingrese su nombre:")
-  enteredWeight = prompt(name + ", ahora ingresa tu peso: ")
-  enteredheight = prompt(name + ", ahora ingresa tu altura: ")
+  name = prompt("Por favor, ingrese su nombre:");
+  enteredWeight = prompt(name + ", ahora ingresa tu peso: ");
+  enteredheight = prompt(name + ", ahora ingresa tu altura: ");
 
   imcCalculado = calculateImc(enteredWeight,enteredheight);
   print(name + ", tu indice de masa corporal es: " + imcCalculado);
+
+  if (imcCalculado < 18.5){
+      print("IMC debajo de lo recomendado.")
+  }
+  if (imcCalculado >= 18.5 && imcCalculado < 25){
+      print("IMC recomendado.")
+  }
+  if (imcCalculado > 25 && imcCalculado < 30){
+      print("IMC en sobrepeso")
+  }
+  if (imcCalculado >= 30){
+      print("IMC considerado como obesidad")
+  }
 
 </script>

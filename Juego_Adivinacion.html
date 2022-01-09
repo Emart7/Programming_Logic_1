@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA 6 - JUEGO DE ADIVINACION </h1>
+
+<script>
+
+    function skipLine() {
+        <!--Function created to perform line breaks-->
+        document.write("<br>");
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function print(frase) {
+        document.write(frase);
+        skipLine();
+    }
+
+    var numeroPensado = Math.round(Math.random()*10);
+    var numeroIngresado = parseInt(prompt("Ingrese un numero entre cero y diez: "));
+
+    if(numeroIngresado == numeroPensado){
+        print("Has adivinado el numero");
+    }
+    else {
+        print("Has errado. El numero pensado era: " + numeroPensado);
+    }
+
+</script>
