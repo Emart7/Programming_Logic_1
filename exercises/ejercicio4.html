@@ -1,0 +1,28 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA - JUEGO DE LOTERIA </h1>
+
+<script>
+    function saltarLinea() {
+        document.write("<br>");
+    }
+
+    function imprimir(frase) {
+        document.write(frase);
+        saltarLinea();
+    }
+
+    function sorteoNumero(n) {
+        return Math.round(Math.random() * n);
+    }
+
+    var numeroPensado = sorteoNumero(10);
+    var numeroIngresado = parseInt(prompt("Ingrese su numero de lotera: "));
+
+    if (numeroIngresado == numeroPensado) {
+        imprimir("Has ganado");
+    } else {
+        imprimir("Has fallado. El numero pensado era: " + numeroPensado + ". Sigue intentando...");
+    }
+
+</script>
