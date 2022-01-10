@@ -1,0 +1,25 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA - AÑO MUNDIAL FIFA </h1>
+
+<script>
+    function skipLine() {
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function print(frase) {
+        document.write(frase);
+        skipLine();
+    }
+
+    var anhoMundial = 1930;
+    var limite = parseInt(prompt("Ingrese el año limite: "));
+
+    while (anhoMundial <= limite) {
+        print("Hubo mundial de futbol en el año: " + anhoMundial);
+        anhoMundial = anhoMundial + 4;
+    }
+    print("Fin del programa");
+
+</script>

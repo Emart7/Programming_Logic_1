@@ -1,0 +1,59 @@
+<meta charset="UTF-8">
+
+<h1>PROGRAMA PARA CALCULAR LAS TABLAS DE MULTIPLICAR</h1>>
+
+<script>
+
+    function skipLine(){
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function print(frase){
+        document.write(frase);
+        skipLine();
+    }
+
+    var multiplicador = 0;
+
+    print("<h1>Tablas de multiplicar con el ciclo While.</h1>");
+
+    while(multiplicador < 10){
+        multiplicador++;
+        print("Tabla del: " + multiplicador);
+        print(multiplicador + " x " + 1 + " = " + multiplicador * 1);
+        print(multiplicador + " x " + 2 + " = " + multiplicador * 2);
+        print(multiplicador + " x " + 3 + " = " + multiplicador * 3);
+        print(multiplicador + " x " + 4 + " = " + multiplicador * 4);
+        print(multiplicador + " x " + 5 + " = " + multiplicador * 5);
+        print(multiplicador + " x " + 6 + " = " + multiplicador * 6);
+        print(multiplicador + " x " + 7 + " = " + multiplicador * 7);
+        print(multiplicador + " x " + 8 + " = " + multiplicador * 8);
+        print(multiplicador + " x " + 9 + " = " + multiplicador * 9);
+        print(multiplicador + " x " + 10 + " = " + multiplicador * 10);
+        skipLine()
+        print("<hr>");
+    }
+
+    print("<h1>Tablas de multiplicar con el ciclo For.</h1>");
+
+    for(multiplicador = 1; multiplicador < 11; multiplicador++){
+        print("Tabla del: " + multiplicador);
+        print(multiplicador + " x " + 1 + " = " + multiplicador * 1);
+        print(multiplicador + " x " + 2 + " = " + multiplicador * 2);
+        print(multiplicador + " x " + 3 + " = " + multiplicador * 3);
+        print(multiplicador + " x " + 4 + " = " + multiplicador * 4);
+        print(multiplicador + " x " + 5 + " = " + multiplicador * 5);
+        print(multiplicador + " x " + 6 + " = " + multiplicador * 6);
+        print(multiplicador + " x " + 7 + " = " + multiplicador * 7);
+        print(multiplicador + " x " + 8 + " = " + multiplicador * 8);
+        print(multiplicador + " x " + 9 + " = " + multiplicador * 9);
+        print(multiplicador + " x " + 10 + " = " + multiplicador * 10);
+        skipLine()
+        print("<hr>");
+    }
+
+
+
+
+</script>

@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="JavaScript exercise - improving the code">
-      <change afterPath="$PROJECT_DIR$/exercises/ejercicio3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ejercicio4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anho_Mundial_Fifa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrellas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media_Edades.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tabla_Multiplicar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ejercicio5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ejercicio6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juego_Adivinacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/juego_Adivinacion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculo_consumo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo_Consumo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/Futbol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Imc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juego_Adivinacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego_Adivinacion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primer_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Primer_Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programa2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programa3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,32 +56,33 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keyrus\IdeaProjects\Logica de Programacion" />
       <recent name="C:\Users\keyrus\IdeaProjects\Logica de Programacion\exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.juego_Adivinacion.html">
-    <configuration name="ejercicio3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio3.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ejercicio6.html">
+    <configuration name="Estrellas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Estrellas.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio4.html" useBuiltInWebServerPort="true">
+    <configuration name="Juego_Adivinacion.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Juego_Adivinacion.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="futbol.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/futbol.html" useBuiltInWebServerPort="true">
+    <configuration name="Media_Edades.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Media_Edades.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="imc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/imc.html" useBuiltInWebServerPort="true">
+    <configuration name="ejercicio5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio5.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="juego_Adivinacion.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/juego_Adivinacion.html" useBuiltInWebServerPort="true">
+    <configuration name="ejercicio6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.juego_Adivinacion.html" />
-        <item itemvalue="JavaScript Debug.ejercicio4.html" />
-        <item itemvalue="JavaScript Debug.ejercicio3.html" />
-        <item itemvalue="JavaScript Debug.imc.html" />
-        <item itemvalue="JavaScript Debug.futbol.html" />
+        <item itemvalue="JavaScript Debug.ejercicio6.html" />
+        <item itemvalue="JavaScript Debug.Estrellas.html" />
+        <item itemvalue="JavaScript Debug.Juego_Adivinacion.html" />
+        <item itemvalue="JavaScript Debug.ejercicio5.html" />
+        <item itemvalue="JavaScript Debug.Media_Edades.html" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +100,8 @@
       <workItem from="1641512543059" duration="36000" />
       <workItem from="1641610526738" duration="10273000" />
       <workItem from="1641698407890" duration="5267000" />
-      <workItem from="1641708697602" duration="1453000" />
+      <workItem from="1641708697602" duration="1483000" />
+      <workItem from="1641779375899" duration="9003000" />
     </task>
     <task id="LOCAL-00001" summary="html exercise">
       <created>1641405066208</created>
@@ -132,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641708475709</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JavaScript exercise - improving the code">
+      <created>1641710171534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641710171534</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

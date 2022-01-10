@@ -1,0 +1,33 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA IMPRIMIR ESTRELLAS </h1>
+
+<script>
+
+    function skipLine() {
+        <!--Function created to perform line breaks-->
+        document.write("<br>");
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function print(frase) {
+        document.write(frase);
+        skipLine();
+    }
+
+    for(var lineas = 1; lineas <= 3; lineas++) {
+        for(var estrellas = 1; estrellas <= 10; estrellas++) {
+            document.write("*");
+        }
+        skipLine();
+    }
+
+
+
+
+    skipLine();
+    skipLine();
+    print("Gracias por jugar.");
+
+</script>

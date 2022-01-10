@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 
-<h1> PROGRAMA 6 - JUEGO DE ADIVINACION </h1>
+<h1> PROGRAMA - JUEGO DE ADIVINACION </h1>
 
 <script>
 
@@ -17,13 +17,27 @@
     }
 
     var numeroPensado = Math.round(Math.random()*10);
+    var contador = 1;
+    var intentos = 3;
+
+    while(contador <= intentos){
     var numeroIngresado = parseInt(prompt("Ingrese un numero entre cero y diez: "));
+    if(numeroPensado == numeroIngresado){
+        alert("Felicidades, adivinaste el numero!");
+        break;
+    } else {
+        alert("Usted erro.");
+        contador++;
+    }
+
+    }
 
     if(numeroIngresado == numeroPensado){
-        print("Has adivinado el numero");
+        print("Has adivinado el numero, en el intento " + contador + ". El numero pensado era: " + numeroPensado);
     }
     else {
         print("Has errado. El numero pensado era: " + numeroPensado);
     }
+    print("Gracias por jugar.");
 
 </script>

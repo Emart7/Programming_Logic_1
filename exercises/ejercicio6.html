@@ -1,0 +1,30 @@
+<meta charset="UTF-8">
+<script>
+
+    var inicioDeSesionRegistrado = "alura";
+    var contrasenhaRegistrada = "alura321";
+
+    var inicioDeSesionIngresado = prompt("Ingrese su usuario");
+    var contrasenhaIngresada = prompt("Ingrese su contraseña");
+
+    var intentos = 3;
+    var contador = 1;
+
+    while (contador < intentos) {
+        if (inicioDeSesionIngresado == inicioDeSesionRegistrado && contrasenhaIngresada == contrasenhaRegistrada) {
+            alert("Bienvenido" + inicioDeSesionIngresado);
+            prompt("Has iniciado sesion.")
+            break;
+        } else {
+            alert("Usuario o contraseña incorrectos. Intentos restantes: " + (intentos - contador));
+            alert("Favor intente de nuevo.");
+            contador++;
+            var inicioDeSesionIngresado = prompt("Ingrese su usuario");
+            var contrasenhaIngresada = prompt("Ingrese su contraseña");
+        }
+    }
+
+    document.writeln("Usuario Bloqueado.")
+
+
+</script>

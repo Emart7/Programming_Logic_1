@@ -1,0 +1,30 @@
+<meta charset="UTF-8">
+
+<h1> PROGRAMA PARA IMPRIMIR LOS NUMEROS PARES E IMPARES DEL 1 AL 100 CON EL CICLO WHILE </h1>
+
+<script>
+    function skipLine() {
+        document.write("<br>");
+    }
+
+    function print(frase) {
+        document.write(frase);
+        skipLine();
+    }
+
+    x = 0;
+    numerosHastaElCien = [];
+
+    print("<h2>Los numeros pares e impares que hay hasta el cien son: </h2>");
+
+    while (x < 100){
+        x += 1;
+        numerosHastaElCien.push(x);
+        if(x % 2 == 0){
+            print("Los numeros pares son: " + x + "------------------- Y los numeros impares: " + (x + 1));
+        }
+    }
+
+
+
+</script>
