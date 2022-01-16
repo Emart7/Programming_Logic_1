@@ -11,9 +11,11 @@
     var contador = 1;
 
     while (contador < intentos) {
+        var inicioDeSesionRegistrado = "Euler";
+        var contrasenhaRegistrada = "12345";
         if (inicioDeSesionIngresado == inicioDeSesionRegistrado && contrasenhaIngresada == contrasenhaRegistrada) {
             alert("Bienvenido" + inicioDeSesionIngresado);
-            prompt("Has iniciado sesion.")
+            document.writeln("Has iniciado sesion.")
             break;
         } else {
             alert("Usuario o contraseña incorrectos. Intentos restantes: " + (intentos - contador));
@@ -22,9 +24,8 @@
             var inicioDeSesionIngresado = prompt("Ingrese su usuario");
             var contrasenhaIngresada = prompt("Ingrese su contraseña");
         }
+        document.writeln("Usuario Bloqueado.")
     }
-
-    document.writeln("Usuario Bloqueado.")
 
 
 </script>

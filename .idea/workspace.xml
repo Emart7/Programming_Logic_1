@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="JavaScript exercise - improving the code">
-      <change afterPath="$PROJECT_DIR$/Anho_Mundial_Fifa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrellas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media_Edades.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tabla_Multiplicar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ejercicio5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ejercicio6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego_Secreto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego_Secreto3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego_Secreto_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ejercicio7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Logica de Programacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Logica_de_Programacion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculo_consumo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo_Consumo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/futbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/Futbol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Imc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juego_Adivinacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego_Adivinacion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Primer_Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programa.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programa2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programa2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programa3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programa3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/ejercicio6.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/ejercicio6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,29 +53,29 @@
       <recent name="C:\Users\keyrus\IdeaProjects\Logica de Programacion\exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ejercicio6.html">
-    <configuration name="Estrellas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Estrellas.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Juego_Secreto3.html">
+    <configuration name="Juego_Secreto3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/Juego_Secreto3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Juego_Adivinacion.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Juego_Adivinacion.html" useBuiltInWebServerPort="true">
+    <configuration name="Juego_Secreto_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/Juego_Secreto_2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Media_Edades.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Media_Edades.html" useBuiltInWebServerPort="true">
+    <configuration name="Juego_Secreto.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/Juego_Secreto.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio5.html" useBuiltInWebServerPort="true">
+    <configuration name="Juego_Secreto.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Juego_Secreto.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/exercises/ejercicio6.html" useBuiltInWebServerPort="true">
+    <configuration name="ejercicio7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/exercises/ejercicio7.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ejercicio6.html" />
-        <item itemvalue="JavaScript Debug.Estrellas.html" />
-        <item itemvalue="JavaScript Debug.Juego_Adivinacion.html" />
-        <item itemvalue="JavaScript Debug.ejercicio5.html" />
-        <item itemvalue="JavaScript Debug.Media_Edades.html" />
+        <item itemvalue="JavaScript Debug.Juego_Secreto3.html" />
+        <item itemvalue="JavaScript Debug.ejercicio7.html" />
+        <item itemvalue="JavaScript Debug.Juego_Secreto.html (1)" />
+        <item itemvalue="JavaScript Debug.Juego_Secreto_2.html" />
+        <item itemvalue="JavaScript Debug.Juego_Secreto.html" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +94,11 @@
       <workItem from="1641610526738" duration="10273000" />
       <workItem from="1641698407890" duration="5267000" />
       <workItem from="1641708697602" duration="1483000" />
-      <workItem from="1641779375899" duration="9003000" />
+      <workItem from="1641779375899" duration="9294000" />
+      <workItem from="1641878160802" duration="12000" />
+      <workItem from="1642099152143" duration="3151000" />
+      <workItem from="1642102360600" duration="3000" />
+      <workItem from="1642291479138" duration="7621000" />
     </task>
     <task id="LOCAL-00001" summary="html exercise">
       <created>1641405066208</created>
@@ -152,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641710171534</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JavaScript exercise - improving the code">
+      <created>1641789893631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641789893631</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
