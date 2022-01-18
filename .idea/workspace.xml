@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="JavaScript exercise - improving the code">
-      <change afterPath="$PROJECT_DIR$/Canva.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="JavaScript exercise - improving the code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1642102360600" duration="3000" />
       <workItem from="1642291479138" duration="10782000" />
       <workItem from="1642347299405" duration="2481000" />
-      <workItem from="1642475552968" duration="2533000" />
+      <workItem from="1642475552968" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="html exercise">
       <created>1641405066208</created>
@@ -166,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642305153137</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JavaScript exercise - improving the code">
+      <created>1642478163489</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642478163490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
