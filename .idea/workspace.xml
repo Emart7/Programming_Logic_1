@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6594c2a9-e6e8-4241-b7a2-6292c06cafc8" name="Changes" comment="JavaScript exercise - improving the code">
-      <change afterPath="$PROJECT_DIR$/Canva4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ejercicio15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Canva5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/ejercicio15.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/ejercicio15.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Veterinaria" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,14 +48,14 @@
       <recent name="C:\Users\keyrus\IdeaProjects\Logica de Programacion\exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ejercicio15.html">
+  <component name="RunManager" selected="JavaScript Debug.Canva5.html">
     <configuration name="Canva3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/Canva3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Canva4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/Canva4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio13.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/exercises/ejercicio13.html" useBuiltInWebServerPort="true">
+    <configuration name="Canva5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/Canva5.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ejercicio14.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logica de Programacion/Logica_de_Programacion/exercises/ejercicio14.html" useBuiltInWebServerPort="true">
@@ -66,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Canva5.html" />
         <item itemvalue="JavaScript Debug.ejercicio15.html" />
         <item itemvalue="JavaScript Debug.Canva4.html" />
         <item itemvalue="JavaScript Debug.ejercicio14.html" />
         <item itemvalue="JavaScript Debug.Canva3.html" />
-        <item itemvalue="JavaScript Debug.ejercicio13.html" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,10 @@
       <workItem from="1642736644386" duration="2604000" />
       <workItem from="1642767731451" duration="616000" />
       <workItem from="1642777085694" duration="49000" />
-      <workItem from="1642823986400" duration="5634000" />
+      <workItem from="1642823986400" duration="5687000" />
+      <workItem from="1643198465721" duration="742000" />
+      <workItem from="1643211026063" duration="1306000" />
+      <workItem from="1643250347383" duration="2341000" />
     </task>
     <task id="LOCAL-00001" summary="html exercise">
       <created>1641405066208</created>
@@ -219,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642739251651</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="JavaScript exercise - improving the code">
+      <created>1642831003208</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642831003208</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
